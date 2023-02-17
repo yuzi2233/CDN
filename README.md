@@ -1,0 +1,2 @@
+# CDN
+Blog_picture
